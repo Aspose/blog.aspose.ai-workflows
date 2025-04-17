@@ -1,2 +1,2 @@
 # blog.aspose.ai-workflows
-v1.91
+v1.92
