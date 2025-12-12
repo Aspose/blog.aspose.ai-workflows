@@ -1,3 +1,3 @@
 # blog.aspose.ai-workflows
 
-v1.102
+v1.103
